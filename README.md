@@ -8,4 +8,4 @@
 <br>
 <hr>
 
-Live Server: []
+Live Server: [https://safeya-yasien.github.io/recipe-app/]
